@@ -1,0 +1,7 @@
+﻿Nome,Quantidade,Componente
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"Rpot1",1,"250 Ω Potenciômetro"
+"R1",1,"120 Ω Resistor"
+"D1",1,"Vermelho LED"
+"R2",1,"160 Ω Resistor"
