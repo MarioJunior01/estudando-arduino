@@ -1,0 +1,6 @@
+﻿Nome,Quantidade,Componente
+"Uplaca inicial",1," Arduino Uno R3"
+"R2, R1, R4",3,"1 kΩ Resistor"
+"D2",1,"Verde LED"
+"D1",1,"Amarelo LED"
+"D3",1,"Vermelho LED"
